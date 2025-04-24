@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @cmilagan
-- 👀 I’m interested in Creating and developing things across the full stack
-- 🌱 I’m currently learning Mobile Application Development
-- 💞️ I’m looking to collaborate on any cool projects
-- 📫 Reach me at cmilagan7@gmail.com or through LinkedIn!
 
 <!---
 cmilagan/cmilagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
